@@ -1,2 +1,2 @@
 # -LetsUpgrade-AI-ML-
-Assignnments
+Folder to submit the Assignments
